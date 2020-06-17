@@ -1,0 +1,34 @@
+//Items
+item.empty_enchanted_book.name=Пустая зачарованная книга
+
+//Enchantments
+enchantment.Absorption=Поглощение
+enchantment.Bad Luck=Невезение
+enchantment.Blindness=Слепота
+enchantment.Fire Resistance=Огнестойкость
+enchantment.Glowing=Свечение
+enchantment.Haste=Спешка
+enchantment.Health Boost=Повышение здоровья
+enchantment.Hunger=Голод
+enchantment.Instant Damage=Моментальный урон
+enchantment.Instant Health=Мгновенное лечение
+enchantment.Invisibility=Невидимость
+enchantment.Jump Boost=Прыгучесть
+enchantment.Levitation=Левитация
+enchantment.Luck=Удача
+enchantment.Mining Fatigue=Утомление
+enchantment.Nausea=Тошнота
+enchantment.Night Vision=Ночное зрение
+enchantment.Poison=Отравление
+enchantment.Regeneration=Регенерация
+enchantment.Resistance=Сопротивление
+enchantment.Saturation=Насыщение
+enchantment.Slowness=Медлительность
+enchantment.Speed=Скорость
+enchantment.Strength=Сила
+enchantment.Water Breathing=Подводное дыхание
+enchantment.Weakness=Слабость
+enchantment.Wither=Иссушение
+
+//GUI
+itemGroup.betterenchantmenttab=Better Enchantment
